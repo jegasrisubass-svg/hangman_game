@@ -1,4 +1,6 @@
+## Project Link
 
+[View Hangman Game](https://github.com/jegasrisubass-svg/hangman_game)
 🎮 Hangman Game
 
 A simple **console-based Hangman Game** developed using Python as part of my **CodeAlpha Python Internship – Task 1**.
